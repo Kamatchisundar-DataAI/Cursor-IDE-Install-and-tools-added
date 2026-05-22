@@ -26,15 +26,16 @@ The following modern AI development tools and version control systems were succe
   
 3. Extension Configuration:
   <img width="479" height="170" alt="image" src="https://github.com/user-attachments/assets/ed2c8b79-917c-4533-ab90-da339edd9c9e" />
+
    * Opened the Extensions marketplace within Cursor.
    * Searched for and installed `Claude Code for VS Code`.
    * Searched for, installed, and authenticated `Codex` via Google login.
   
-4. Verrification Installed Extensions:
+5. Verrification Installed Extensions:
   <img width="494" height="205" alt="image" src="https://github.com/user-attachments/assets/3cce4c75-2851-46b4-b7e1-13840d9abd61" />
    * Click the down arrow bottom of the list, we can see our added tools.
 
-5. Repository Deployment: Created this public GitHub repository, opened it locally inside Cursor, and initialized the workflow.
+6. Repository Deployment: Created this public GitHub repository, opened it locally inside Cursor, and initialized the workflow.
 
 ---
 
