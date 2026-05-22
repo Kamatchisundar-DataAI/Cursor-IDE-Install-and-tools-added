@@ -55,6 +55,8 @@ The following modern AI development tools and version control systems were succe
 *   <img width="479" height="382" alt="image" src="https://github.com/user-attachments/assets/7e5594e2-e156-4829-9d2e-e12f81ea81cb" />
 
 *   Codex processed the prompt and created a python file with code from start of URL load to file extract with required Libraries.
+*   <img width="490" height="226" alt="image" src="https://github.com/user-attachments/assets/3bb09fdc-dd43-4ee0-886e-8d504395ffc9" />
+
 *   <img width="693" height="418" alt="image" src="https://github.com/user-attachments/assets/11ba9193-cbd0-4dab-844e-3f71f6117f4c" />
 *   <img width="615" height="460" alt="image" src="https://github.com/user-attachments/assets/fbde9d02-4f45-4b14-9cd7-fe17a5fbc4f4" />
 
