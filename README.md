@@ -33,9 +33,10 @@ The following modern AI development tools and version control systems were succe
   
 5. Verrification Installed Extensions:
   <img width="494" height="205" alt="image" src="https://github.com/user-attachments/assets/3cce4c75-2851-46b4-b7e1-13840d9abd61" />
-   * Click the down arrow bottom of the list, we can see our added tools.
 
-6. Repository Deployment: Created this public GitHub repository, opened it locally inside Cursor, and initialized the workflow.
+    * Click the down arrow bottom of the list, we can see our added tools.
+
+7. Repository Deployment: Created this public GitHub repository, opened it locally inside Cursor, and initialized the workflow.
 
 ---
 
